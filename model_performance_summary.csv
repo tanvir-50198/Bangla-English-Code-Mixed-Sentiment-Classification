@@ -1,0 +1,7 @@
+Feature,Model,Accuracy,Precision,Recall,F1
+BoW,NaiveBayes,0.9922,0.9922,0.9921,0.9922
+BoW,LogisticRegression,0.997,0.997,0.997,0.997
+BoW,SVM,0.997,0.9969,0.997,0.997
+TFIDF,NaiveBayes,0.9922,0.9922,0.9921,0.9922
+TFIDF,LogisticRegression,0.9968,0.9968,0.9968,0.9968
+TFIDF,SVM,0.997,0.997,0.997,0.997
